@@ -1,0 +1,68 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zzx.config.JwtConfig",
+      "name": "jwt",
+      "type": "com.zzx.config.JwtConfig"
+    },
+    {
+      "sourceType": "com.zzx.config.SiteIntroductionConfig",
+      "name": "site",
+      "type": "com.zzx.config.SiteIntroductionConfig"
+    },
+    {
+      "sourceType": "com.zzx.config.ImgUploadConfig",
+      "name": "upload",
+      "type": "com.zzx.config.ImgUploadConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zzx.config.JwtConfig",
+      "name": "jwt.header",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zzx.config.JwtConfig",
+      "name": "jwt.prefix",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zzx.config.JwtConfig",
+      "name": "jwt.secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zzx.config.JwtConfig",
+      "defaultValue": 0,
+      "name": "jwt.time",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.zzx.config.SiteIntroductionConfig",
+      "name": "site.introduction",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zzx.config.ImgUploadConfig",
+      "name": "upload.folder-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zzx.config.ImgUploadConfig",
+      "name": "upload.layer-count",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zzx.config.ImgUploadConfig",
+      "name": "upload.static-access-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zzx.config.ImgUploadConfig",
+      "name": "upload.upload-folder",
+      "type": "java.lang.String"
+    }
+  ]
+}
