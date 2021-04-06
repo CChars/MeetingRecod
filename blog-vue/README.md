@@ -7,7 +7,6 @@
 * vue router
 * axios
 * element-ui
-* mavon-editor  [开源md编辑器](https://github.com/hinesboy/mavonEditor)
 * qs
 
 #### Run
